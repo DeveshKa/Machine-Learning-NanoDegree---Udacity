@@ -25,3 +25,6 @@ Sklearn.ensemble
 sklearn.tree
 
 Sklearn.GridSearchCv
+
+
+For making this project i took help from AnalyticsVidhya.com, towardsdatascience.com, medium.com, book Building recommendation systems by python - Eric Rodriguez Packt publication
